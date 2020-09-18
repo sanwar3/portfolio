@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Housewares by Samar Anwar</title>
+</head>
+<body>
+    <div>
+        <header>
+            <h1>Katli</h1>
+        </header>
+
+        <p>A little piece from home.
+        </p>
+    </div>
+
+    &emsp;
+
+    <p><strong>Housewares project designed to preserve culture in Pakistani communities away from the homeland.</strong></p>
+
+    </p>
+    <img src="./img/project-2-2.png" width="600" height="363" alt="Photograph; housewares-product-image.">
+    <p>
+
+        &emsp;
+
+        <p>
+            <h2>Abstract</h2>
+        </p>
+        <p>Tea, specifically, chai is a necessity for Pakistani people. All of Pakistan runs on chai. For Pakistanis, drinking chai together brings about expressions of hospitality, friendship, and togetherness. In communities living outside of the homeland, recreating nostalgic feelings is diffcult. Over time, people of Pakistani decent have let in modern products in to their home, which isn’t always a bad thing, but it slowly causes a stripping of culture to take place as they start to assimilate to their surrounding culture.
+        </p>
+
+        <p>
+
+            &emsp;
+
+            <h2>Goal</h2>
+        </p>
+        <p>Katli attempts to ease the problem of disconnect with the homeland Pakistanis experience aespecially in regards to a favorite past time: drinking chai.</p>
+
+        <p>In an effort to bring back memories of roaming through the streets in Pakistan, the product is modeled after the teapots usually seen at regularly visited tea stalls. Katli also preserves the identity and culture that fluctuates within Pakistani families abroad. Overall, it’s a product that brings a piece from back home into the home.
+        </p>
+
+
+</body>
+</html>
