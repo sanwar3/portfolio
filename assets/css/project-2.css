@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Catamaran:wght@100;200&family=Oxygen:wght@300&display=swap');
+
+.main-title {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 50px;
+  font-weight: bolder;
+  color: rgb(118, 131, 6);
+}
+
+.sub-title {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 18px;
+  font-weight: bolder;
+}
+
+body {
+  background-color: rgb(246, 246, 247);
+  padding-left: 30px;
+}
+
+
+.abstract {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 30px;
+  font-weight: bolder;
+  color: rgb(118, 131, 6);
+}
+
+.paragraph-body {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+
+.product {
+    font-family: 'Oxygen', sans-serif;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.goal {
+  font-family: 'Oxygen', sans-serif;
+  font-size: 30px;
+  font-weight: bolder;
+  color: rgb(118, 131, 6);
+}
